@@ -1,0 +1,7 @@
+olleH
+oT emocleW
+tI sI sihT
+ottiD
+.desrever eb oT
+
+The original strings are: ["Hello", "Welcome To", "This Is It", "Ditto", "To be reversed.", ""]
